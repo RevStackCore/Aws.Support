@@ -1,0 +1,19 @@
+{
+  "name": "RevStackCore.Aws.Support",
+  "version": "1.0.0",
+  "description": "AWS extensions and utilities",
+  "main": "RevStackCore.DataAnnotations.sln",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RevStackCore/Aws.Support.git"
+  },
+  "author": "S. Francis",
+  "license": "AGPLv3",
+  "bugs": {
+		"url": "https://github.com/RevStackCore/Aws.Support/issues"
+  },
+	"homepage": "https://github.com/RevStackCore/Aws.Support"
+}

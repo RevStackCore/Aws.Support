@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AWSSDK.DynamoDBv2" Version="3.3.17.6" />
+    <PackageReference Include="AWSSDK.S3" Version="3.3.31.16" />
+    <PackageReference Include="AWSSDK.SQS" Version="3.3.3.55" />
+    <PackageReference Include="ServiceStack.Text" Version="5.4.0" />
+  </ItemGroup>
+</Project>
